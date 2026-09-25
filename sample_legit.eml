@@ -1,0 +1,16 @@
+Return-Path: <notifications@github.com>
+Received: from out-22.smtp.github.com (192.30.252.192) by mx01.cohencpa.com
+ with SMTP; Mon, 21 Sep 2026 14:02:11 -0400
+Authentication-Results: cohencpa.com; spf=pass smtp.mailfrom=github.com;
+ dkim=pass header.d=github.com; dmarc=pass action=none header.from=github.com;
+From: GitHub <notifications@github.com>
+To: hamzah.chaudhry@cohencpa.com
+Subject: [hchaudhry/phishtriage] New release published
+Date: Mon, 21 Sep 2026 14:02:10 -0400
+Message-ID: <aa11bb22@github.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>A new release was published.</p>
+<p><a href="https://github.com/hchaudhry/phishtriage/releases">View release</a></p>
+</body></html>
